@@ -50,6 +50,12 @@ Harmonic-aware machine learning is not just a modeling choice—it is a **networ
 `Harmonic Analysis` • `Edge Computing` • `Smart Grids` • `Feature Engineering` • `Network Efficiency` • `NILM`
 
 ---
+## Dataset
+
+The dataset used in this study is publicly available and was obtained from the
+high-frequency NILM repository maintained by [Dinar et al. 2025] The dataset can be
+accessed at https://github.com/fariddinar/nilm-dataset (accessed on 20 December 2025).
+
 
 ## 📂 Repository Structure
 
