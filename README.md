@@ -50,4 +50,15 @@ Harmonic-aware machine learning is not just a modeling choice—it is a **networ
 `Harmonic Analysis` • `Edge Computing` • `Smart Grids` • `Feature Engineering` • `Network Efficiency` • `NILM`
 
 ---
+
+## 📂 Repository Structure
+
+```text
+notebook/    -> Jupyter notebook with all experiments
+data/        -> Instructions to obtain the dataset
+figures/     -> Final figures used in the paper
+paper/       -> LaTeX source of the camera-ready paper
+results/     -> Tables with numerical results
+
+---
 *Summary based on the article: "Harmonic Analysis for Edge Based Smart Grids: Feature Engineering and Network-Efficient Power Estimation"*
