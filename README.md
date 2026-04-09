@@ -25,10 +25,15 @@ This research investigates the role of **feature engineering** in harmonic-based
 ### 📈 KEY FINDINGS
 > **The Dominance of the Fundamental Harmonic (h1)**
 > 
+>![Alt text](Results/Table01.png)
+> 
 > **Result:** h1 alone explains nearly all variance in active power (**R² ≈ 0.9999**).
 
-The study reveals that adding higher-order harmonics (h2–h32) does not significantly improve predictive performance. The underlying mapping is inherently low-complexity and can be captured by minimal resource algorithms.
 
+The study reveals that adding higher-order harmonics (h2–h32) does not significantly improve predictive performance. The underlying mapping is inherently low-complexity and can be captured by minimal resource algorithms.
+>
+>>![Alt text](Results/Tablet04.png)
+>
 ### 🚀 TECHNICAL CONTRIBUTIONS
 - **Feature-Centric Analysis:** Tailored harmonic representations for smart grid power estimation.
 - **Leakage-Aware Protocol:** A robust experimental framework ensuring reliable evaluation without data leakage.
