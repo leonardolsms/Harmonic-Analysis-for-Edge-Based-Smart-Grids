@@ -1,0 +1,35 @@
+Referências Bibliográficas 
+
+Cao, L., Huo, T., Li, S. et al. Cost optimization in edge computing: a survey. Artif Intell Rev 57, 312 (2024). https://doi.org/10.1007/s10462-024-10947-4
+Dinar, F., Paris, S., and Busvelle, E. (2025). Capturing high-frequency harmonic signatures for nilm: Building a dataset for load disaggregation. Sensors, 25(15):4601.
+
+De Oliveira Barbosa, E. H., Oliveira, V. M., Branco, H. M. G. C., and Lemos, M. V.
+(2017). Aplicação de redes neurais artificiais para o reconhecimento de assinaturas harmônicas de equipamentos elétricos. 
+
+Filho, Carlos Poncinelli, Elias Marques, Jr., Victor Chang, Leonardo dos Santos, Flavia Bernardini, Paulo F. Pires, Luiz Ochi, and Flavia C. Delicato. 2022. "A Systematic Literature Review on Distributed Machine Learning in Edge Computing" Sensors 22, no. 7: 2665. https://doi.org/10.3390/s22072665
+
+Gómez-Carmona, Oihane & Casado Mansilla, Diego & Kraemer, Frank & López-de-Ipiña, Diego & Garcia-Zubia, Javier. (2020). Exploring the computational cost of machine learning at the edge for human-centric Internet of Things. Future Generation Computer Systems. 112. 10.1016/j.future.2020.06.013.
+
+Goncalves, E., Moura, P. N., Costa, D., and Alvim, A. (2025). Inteligência artificial verde e quantização em modelos de aprendizagem profunda. 
+
+Liu, Liu & Xu, Zhifei. (2025). Optimizing lightweight neural networks for efficient mobile edge computing. Scientific Reports. 15. 10.1038/s41598-025-04652-7.
+
+Magnani, S., Tirupathi, S., Doriguzzi-Corin, R., Nedoshivina, L., Braghin, S., and Siracusa, D. (2024). Online learning and model pruning against concept drifts in edge devices. In 2024 IEEE 10th International Conference on Network Softwarization (NetSoft), pages 351–356. IEEE.
+
+Regan, J., Saffari, M., and Khodayar, M. (2022). Deep attention and generative neural
+networks for nonintrusive load monitoring. The Electricity Journal, 35(5):107127.
+Behind the meter strategies for enhancing the electricity grid resilience, reliability,
+economics, sustainability, and security.
+
+Surianarayanan, Chellammal, John Jeyasekaran Lawrence, Pethuru Raj Chelliah, Edmond Prakash, and Chaminda Hewage. 2023. "A Survey on Optimization Techniques for Edge Artificial Intelligence (AI)" Sensors 23, no. 3: 1279. https://doi.org/10.3390/s23031279
+
+Yue, Z. and et al. (2023). Bert4nilm: A bidirectional transformer model for non-intrusive
+load monitoring. IEEE Transactions on Smart Grid, 14(2).
+
+Zhang, D., Li, X., Li, J., Li, G., Zheng, N., and Wang, Z. (2024). Non-invasive load
+monitoring based on cnn-lstm-attention. In 2024 IEEE 3rd International Conference
+on Electrical Engineering, Big Data and Computer (EEBDC), pages 568–572. IEEE.
+
+Zonzini, F., Carbone, A., Girolami, A., Testoni, N., De Marchi, L., and Malatesta, M. V.
+(2025). Lightweight signal processing and edge ai for real-time anomaly detection in
+iot sensor networks. Sensors, 25(21):6629.
