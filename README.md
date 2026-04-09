@@ -34,6 +34,14 @@ The study reveals that adding higher-order harmonics (h2–h32) does not signifi
 >
 >>![Alt text](Results/Tablet04.png)
 >
+The table 03 indicate that all evaluated models achieve similar predictive performance, with R² values close to 1.0 and low error metrics. However, significant differences emerge in terms of computational efficiency. Linear models, particularly those using only the fundamental harmonic (h1), exhibit substantially lower inference latency and memory consumption compared to ensemble-based methods such as Random Forest and XGBoost. Despite their simplicity, these models maintain comparable accuracy, suggesting that the prediction task has low intrinsic complexity.
+
+These findings highlight that increased model complexity does not necessarily translate into better performance in this context. Instead, lightweight models provide a more efficient and scalable solution, especially for edge-based deployments where computational resources are limited.
+
+From a networking perspective, reduced inference latency enables faster decision-making and decreases end-to-end delay, while lower memory requirements facilitate deployment across large-scale distributed systems.
+>
+>>![Alt text](Results/Table03.png)
+>
 ### 🚀 TECHNICAL CONTRIBUTIONS
 - **Feature-Centric Analysis:** Tailored harmonic representations for smart grid power estimation.
 - **Leakage-Aware Protocol:** A robust experimental framework ensuring reliable evaluation without data leakage.
