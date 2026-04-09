@@ -74,10 +74,11 @@ accessed at https://github.com/fariddinar/nilm-dataset (accessed on 20 December 
 
 ```text
 notebook/    -> Jupyter notebook with all experiments
-data/        -> Instructions to obtain the dataset
+data/scripts -> Instructions to obtain the dataset
 figures/     -> Final figures used in the paper
 paper/       -> LaTeX source of the camera-ready paper
 results/     -> Tables with numerical results
+bibliographic_references  -> Bibliographic_references used.
 
 ---
 *Summary based on the article: "Harmonic Analysis for Edge Based Smart Grids: Feature Engineering and Network-Efficient Power Estimation"*
